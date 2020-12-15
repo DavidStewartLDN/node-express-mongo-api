@@ -1,0 +1,11 @@
+{
+  "name": "node-express-mongo-api",
+  "version": "1.0.0",
+  "description": "Example backend for storing notes with CRUD operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Stewart",
+  "license": "ISC"
+}
